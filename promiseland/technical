@@ -1,0 +1,8 @@
+Task1:
+Log into your eks cluster name lab-<your name
+Create a namespace as your name
+Setup Prometheus with Grafana using helm
+In that name space
+Set-up ingress leveraging AWS controller
+Create a public DNS entry in route 53 (under domain lab-dev) with your name that should be used to access Grafana publicly
+Log into Grafana and see if you can see metrics from your cluster
